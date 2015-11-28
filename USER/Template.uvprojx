@@ -10,6 +10,7 @@
       <TargetName>Template</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
+      <pCCUsed>5060061::V5.06 update 1 (build 61)::ARMCC</pCCUsed>
       <TargetOption>
         <TargetCommonOption>
           <Device>STM32F407ZG</Device>
@@ -694,6 +695,11 @@
               <FileName>steer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\HARDWARE\steer\steer.c</FilePath>
+            </File>
+            <File>
+              <FileName>Lee.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Lee.txt</FilePath>
             </File>
           </Files>
         </Group>
